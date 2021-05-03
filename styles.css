@@ -12,7 +12,9 @@ h1 {
   color: white;
   padding: 1rem;
 }
-
+#source-code {
+  color: #7f7f7f;
+}
 ol {
   counter-reset: list-counter;
   list-style: none;
